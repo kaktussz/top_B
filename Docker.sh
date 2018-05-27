@@ -11,7 +11,7 @@ sudo apt-get install -y docker-ce
 sudo usermod -aG docker ubuntu
 
 cat <<EOF > index.html
-This is my test page..
+Jupiiiiiiiiiiiiiiii:)
 EOF
 
 cat <<EOF > Dockerfile
